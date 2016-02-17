@@ -1,3 +1,3 @@
 # git-test
 
-This is a new line. Hello, world!
+This is a changed new line. Hello, world!
