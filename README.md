@@ -1,5 +1,5 @@
 # git-test
 
-This is a changed new line. Hello, world!
+This is a twice changed newish line. Hello world!
 
 ...and this is more text
